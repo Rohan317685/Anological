@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4, C5, C6",0805,6,10uF,
+"C10, C9",0805,2,100nF,
+"C7, C8",CP_Radial_D5.0mm_P2.00mm,2,10uF,
+"D1, D2, D3, D4, D5, D6",LED_D3.0mm,6,LED,
+D7,D_SOD-123,1,1N4148W,
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+"Q1, Q10, Q11, Q12, Q13, Q14, Q15, Q16, Q17, Q18, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9",TO-92_Inline,18,Q_NPN_BCE,
+"R1, R11, R12, R13, R14, R15, R19, R20, R21, R22, R23, R24, R3, R4, R5, R7, R8, R9",0805,18,100k,
+"R10, R16, R17, R18, R2, R6",0805,6,1k,
+U1,SOT-223-3_TabPin2,1,AMS1117-3.3,
