@@ -23,3 +23,6 @@ It is a 6 node transistor only signal network where each block drives, perturbs 
 | Resistor 100k                    | For resisting                   | 100      | $0.29   | https://www.lcsc.com/product-detail/C416061.html                                                      |
 | Resistor 1k                      | For resisting aswell            | 100      | $ 0.42  | https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_1KR-1000-1_C95781.html                |
 | AMS1117-3.3                      | Voltage regulator               | 5        | $ 0.99  | https://www.lcsc.com/product-detail/C6186.html                                                        |
+|LCSC fees                         |Shipping/handling fees           | N/A      |$7.89    | lcsc.com                                                                                              |
+
+I have used the cheapest shipping options and it comes to a total off: $22.48
